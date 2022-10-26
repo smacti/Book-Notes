@@ -102,10 +102,10 @@ can find a neat and efficient way to use the language to do difficult, obscure, 
 
 often will need to do small studies (2~3 days) on good technique.
 
-<aside>
-💡 Make all computer runs visible to all team members. Identify all programs and data as team property; not private property.
 
-</aside>
+💡 ``` Make all computer runs visible to all team members. Identify all programs and data as team property; not private property.```
+
+
 
 ## **Aristocracy, Democracy, and System Design**
 
